@@ -16,7 +16,6 @@
 - 🌑 **Dark / AMOLED Themes**  
 - 💻 **Cross-Platform Builds:** Windows `.exe`, Linux `.deb` & `.AppImage`  
 - 🔒 **Local Processing** — all lookups happen client-side  
-- 🧩 **Modern UI** — smooth transitions, animated “Made by Zeno” watermark  
 
 ---
 
