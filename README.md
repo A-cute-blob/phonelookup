@@ -1,4 +1,4 @@
-# 🔍 Phone Lookup — OSINT Tool by Zeno
+# 🔍 Phone Lookup — OSINT Tool by A-cute-blob(Zeno)
 
 **Phone Lookup** is a cross-platform open-source OSINT utility for gathering detailed information about phone numbers, including:
 - Location & region
