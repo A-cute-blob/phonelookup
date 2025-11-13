@@ -64,6 +64,9 @@
    chmod +x PhoneLookup.AppImage
    ./PhoneLookup.AppImage
 
+### 🤖 **Android**
+1. Download and run the latest `.apk` from [Releases](../../releases)  
+
 
 ### 🧑‍💻 Author
 **Developed by Zeno**  
